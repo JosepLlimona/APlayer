@@ -1,0 +1,17 @@
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\bin\Debug\APlayer.exe.config
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\bin\Debug\APlayer.exe
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\bin\Debug\APlayer.pdb
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.csproj.AssemblyReference.cache
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.Form1.resources
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.Properties.Resources.resources
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.csproj.GenerateResource.cache
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.csproj.CoreCompileInputs.cache
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.exe
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.pdb
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.Form2.resources
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\obj\Debug\APlayer.csproj.ResolveComReference.cache
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\josep\Documents\Personal\APlayer\APlayer\APlayer\bin\Debug\AxInterop.WMPLib.dll
